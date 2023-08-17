@@ -1,7 +1,6 @@
 # rust_kafka_on_windows
 
 Running apache kafka on local windows machine 
-
 Prerequistes: 
 1] JDK (https://www.oracle.com/in/java/technologies/downloads/)
 2] APACHE KAKFA (https://kafka.apache.org/downloads)
