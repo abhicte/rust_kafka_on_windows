@@ -5,7 +5,7 @@ Thanks to logrocket for simple and precise exmaple of apache kafka in rust.
 You can follow it - only difference is tried building it on windows and it requires several other dependencies which are mentione below
 
 Prerequistes: 
-1. JDK (https://www.oracle.com/in/java/technologies/downloads/)
+1. JDK (https://www.oracle.com/in/java/technologies/downloads/) (required by 2nd dependency)
 2. APACHE KAKFA (https://kafka.apache.org/downloads) - follow here - https://www.geeksforgeeks.org/how-to-install-and-run-apache-kafka-on-windows/
 3. Visual Studio Code install with : C++ CMake tools for windows (use visual studion installer)  (required by 4th dependency)
 4. OPENSSL Intsallation in local machine 
